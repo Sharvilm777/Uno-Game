@@ -94,9 +94,4 @@ Contributions are what make the open source community such an amazing place to b
 6. Open a pull request
 
 
-## ❤️ Acknowledgements
 
-* [Chirantan P](https://www.linkedin.com/in/chirantan-pradhan-76673019b/) for the background images
-* [AlexDer](https://alexder.itch.io/) for the UNO cards assets
-* [3mil1](https://codepen.io/3mil1) for the button designs
-* [Divyank](https://codepen.io/Pahlaz) for the chat box design
